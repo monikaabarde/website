@@ -138,6 +138,7 @@ html,body{
 }
 
 #footer p{
+    font-size:2vw;
     padding: 0 20px;
 }
 #footer i{
